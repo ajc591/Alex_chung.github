@@ -1,4 +1,4 @@
-# Alex’s Portfolio
+# Alexandrite Chung’s Portfolio
 
 A responsive Rutgers Business School portfolio, hosted on GitHub Pages.
 
